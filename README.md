@@ -11,4 +11,4 @@ O método cria um objeto da classe atual e carrega todos os valores de campo par
 
 ______________________________________________________________________________________________________________
 
-Link para apresentação do padrão: 
+Link para apresentação do padrão: https://drive.google.com/file/d/1bsYN70G0zNc6BCmILHLyffEGRlR8xzFM/view?usp=sharing
